@@ -1,0 +1,14 @@
+C:\Users\Support\source\repos\Wema\bin\Debug\net7.0\Wema.Bit.exe
+C:\Users\Support\source\repos\Wema\bin\Debug\net7.0\Wema.Bit.deps.json
+C:\Users\Support\source\repos\Wema\bin\Debug\net7.0\Wema.Bit.runtimeconfig.json
+C:\Users\Support\source\repos\Wema\bin\Debug\net7.0\Wema.Bit.dll
+C:\Users\Support\source\repos\Wema\bin\Debug\net7.0\Wema.Bit.pdb
+C:\Users\Support\source\repos\Wema\obj\Debug\net7.0\Wema.Bit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\Wema\obj\Debug\net7.0\Wema.Bit.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\Wema\obj\Debug\net7.0\Wema.Bit.AssemblyInfo.cs
+C:\Users\Support\source\repos\Wema\obj\Debug\net7.0\Wema.Bit.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\Wema\obj\Debug\net7.0\Wema.Bit.dll
+C:\Users\Support\source\repos\Wema\obj\Debug\net7.0\refint\Wema.Bit.dll
+C:\Users\Support\source\repos\Wema\obj\Debug\net7.0\Wema.Bit.pdb
+C:\Users\Support\source\repos\Wema\obj\Debug\net7.0\Wema.Bit.genruntimeconfig.cache
+C:\Users\Support\source\repos\Wema\obj\Debug\net7.0\ref\Wema.Bit.dll
